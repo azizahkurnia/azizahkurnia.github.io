@@ -1,0 +1,21 @@
+{
+  "name": "Toko_Item",
+  "short_name": "Toko",
+  "icons": [{
+        "src": "img/icons/logo-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }, {
+        "src": "img/icons/car/arclc-512.jpg",
+        "sizes": "512x512",
+        "type": "image/jpg"
+      }, {
+        "src": "img/car/sniper1-144.jpg",
+        "sizes": "144x144",
+        "type": "image/jpg"
+      }],
+  "start_url": "/toko_item/jug.html",
+  "display": "standalone",
+  "background_color": "#3E4EB8",
+  "theme_color": "#2F3BA2"
+}
